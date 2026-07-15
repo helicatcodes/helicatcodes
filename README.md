@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Helena 👋
 
-<!--
-**helicatcodes/helicatcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product manager with 5+ years in fintech and startups — most recently owning embedded lending products at Banxware — who spent 2026 going deep on the technical side: full-stack development with Ruby on Rails, AI product building with low-code tools, and data analytics.
 
-Here are some ideas to get you started:
+My background is a B.Sc. in Psychology and an MBA, which is why most of what I build circles the same question: how do you make good habits effortless?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🗂 [Product portfolio](https://app.notion.com/p/Helena-Wali-Product-Portfolio-394b13ee104c80cf9a04d7e0f14cf00a)** — projects with demos and walkthroughs
+**💼 [LinkedIn](https://www.linkedin.com/in/helena-wali/)**
+
+## What I work with
+
+- **Product** — strategy and roadmapping, discovery, user behavior research, lifecycle management
+- **Code** — Ruby on Rails, SQL, JavaScript, Python
+- **AI & automation** — OpenAI APIs, RAG pipelines, AI agents, n8n, Supabase, AI-assisted development
+- **Data** — BigQuery, advanced SQL, Looker Studio, Power BI
+
+## Credentials
+
+Le Wagon Berlin, 2026 — AI Software Development (400h) · AI Product Builder (40h) · Data Analytics (400h)
+
+<p>
+  <img src="[cert-ai-software-development.png](https://github.com/user-attachments/files/30064425/20260401_Le.Wagon.AI.and.Software.Dev.Diploma.pdf)" width="260" alt="Le Wagon AI Software Development certificate" />
+  <img src="[cert-data-analytics.png](https://github.com/user-attachments/files/30064419/20260705_Data.Analytics.Bootcamp.Diploma.pdf)" width="260" alt="Le Wagon Data Analytics certificate" />
+</p>
+
+
