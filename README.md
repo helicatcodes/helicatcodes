@@ -19,8 +19,6 @@ My background is a B.Sc. in Psychology and an MBA, which is why most of what I b
 Le Wagon Berlin, 2026 — AI Software Development (400h) · AI Product Builder (40h) · Data Analytics (400h)
 
 <p>
-  <img src="[cert-ai-software-development.png](https://github.com/user-attachments/files/30064425/20260401_Le.Wagon.AI.and.Software.Dev.Diploma.pdf)" width="260" alt="Le Wagon AI Software Development certificate" />
-  <img src="[cert-data-analytics.png](https://github.com/user-attachments/files/30064419/20260705_Data.Analytics.Bootcamp.Diploma.pdf)" width="260" alt="Le Wagon Data Analytics certificate" />
+  <img src="https://github.com/user-attachments/assets/7771c451-aa50-4c74-95ca-3deb6a4388e0" width="260" alt="Le Wagon AI Software Development certificate" />
+  <img src="https://github.com/user-attachments/assets/933277d3-0ee0-4c2c-9975-571226b5afe2" width="260" alt="Le Wagon Data Analytics certificate" />
 </p>
-
-
