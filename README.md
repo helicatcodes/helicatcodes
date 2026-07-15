@@ -5,6 +5,7 @@ Product manager with 5+ years in fintech and startups — most recently owning e
 My background is a B.Sc. in Psychology and an MBA, which is why most of what I build circles the same question: how do you make good habits effortless?
 
 **🗂 [Product portfolio](https://app.notion.com/p/Helena-Wali-Product-Portfolio-394b13ee104c80cf9a04d7e0f14cf00a)** — projects with demos and walkthroughs
+
 **💼 [LinkedIn](https://www.linkedin.com/in/helena-wali/)**
 
 ## What I work with
